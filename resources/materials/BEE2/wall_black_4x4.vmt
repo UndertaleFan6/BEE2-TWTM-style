@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "BEE2/wall_black_4x4"
+$surfaceprop metal
+$bumpmap "BEE2/wall_4x4_normal"
+$envmaplightscale .1
+"%noportal" 1
+}

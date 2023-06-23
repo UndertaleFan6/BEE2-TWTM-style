@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "BEE2/wall_black_00"
+$surfaceprop metal
+$bumpmap "Tile/white_wall_tile003f_height-ssbump"
+$envmaplightscale .1
+$ssbump 1
+"%noportal" 1
+}

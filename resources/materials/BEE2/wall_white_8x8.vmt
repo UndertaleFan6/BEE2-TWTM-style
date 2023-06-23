@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "BEE2/wall_white_8x8"
+			$surfaceprop metal
+$reflectivity "[ .75 .75 .75 ]" 
+"%noportal" 1
+
+$selfillum 1
+
+$detailscale 1.25
+$detailblendfactor 1
+$detailblendmode 0
+}

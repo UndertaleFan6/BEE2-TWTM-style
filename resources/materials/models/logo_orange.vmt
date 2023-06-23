@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\logo_orange"
+	"$selfillum" 1
+//	$additive 1
+	
+"Proxies"
+{
+	"AnimatedTexture"
+	{
+		"animatedTextureVar" "$basetexture"
+		"animatedTextureFrameNumVar" "$frame"
+		"animatedTextureFrameRate" "20"
+	}
+}
+
+}

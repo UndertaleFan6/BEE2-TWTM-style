@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "BEE2/wall_white_01_portable_noicon"
+$surfaceprop default
+$reflectivity "[ .75 .75 .75 ]" 
+}
