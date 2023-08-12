@@ -12,7 +12,7 @@
  "Style"
 	{
 	"ID"          "TWTM"
-	"Authors"     "Stridemann, Catperson6, Super82553, Darealxbox"
+	"Authors"     "Stridemann, Catperson6, Super82553, Darealxbox, Alexus"
 	"Folder"      "TWTM_style"
 	"Icon"        "styles/TWTM.png"
 	"IconLarge"   "prev/TWTM.png"
@@ -31,10 +31,11 @@
 		{
 		"Quote"  "<NONE>"
 		"Music"  "TWTM_TWTM_title"
-		"Skybox" "BEE2_CLEAN"
+		"Skybox" "TWTM_SKYBOX"
 		"Elev"   "APERTURE_CLEAN_LOGO"
 		}
 	}
+
  "Music"
 {
  	"ID" "TWTM_TWTM_title"
@@ -104,3 +105,31 @@
  	"ID"       "VPK_BEE2_TWTM"
  	"FileName" "tm"
  	}
+"SkyBox"
+	{
+	"ID"			"TWTM_SKYBOX"
+	"Name"			"Thinking with Time Machine Skybox"
+	"Group"			"3D"
+	"Icon"			"items/beepkg/twtm_skybox.png"
+	"IconLarge" 		"items/beepkg/twtm_skybox_big.png"
+	"Material"		"sky_black"
+	"Authors"		"Catperson6, Alexus"
+	"Config"		"twtm_skybox"
+	"Description"	"BTS areas seen through windows in TWTM."
+	
+	"Fog"
+		{
+		"start"     "512"
+        "end"       "5000"
+        "density"   "0.95"
+        
+        "primaryColor"      "23 38 57"
+	"secondaryColor"    "12 20 31"
+        "direction"         "90 0 0" // Down
+        
+        "tonemap_rate"          "0.25"
+        "tonemap_brightpixels"  "5"
+        "tonemap_exposure_min"  "1"
+        "tonemap_exposure_max"  "5"
+		}
+	}
