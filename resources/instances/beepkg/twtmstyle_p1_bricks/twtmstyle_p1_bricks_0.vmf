@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9672"
-	"mapversion" "1"
+	"mapversion" "2"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1"
+	"mapversion" "2"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -307,8 +307,8 @@ world
 			"id" "56"
 			"plane" "(-23.4628 87.4256 19.1384) (4.25 32 35.1384) (52.25 32 -48)"
 			"material" "ANIM_WP/FRAMEWORK/BACKPANELS_COLOR02_VERTEX"
-			"uaxis" "[-0.433013 0.866025 -0.25 -68.3516] 0.25"
-			"vaxis" "[0.5 0 -0.866025 -14.7769] 0.25"
+			"uaxis" "[-0.433013 0.866025 -0.25 -135] 0.125"
+			"vaxis" "[0.5 0 -0.866025 152] 0.19"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
