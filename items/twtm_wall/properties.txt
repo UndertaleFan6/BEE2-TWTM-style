@@ -1,0 +1,9 @@
+
+"Properties" {
+	"Authors" "Catperson6"
+	"Description" "A wall from TWTM. Place facing 90 degrees right from the place you want to be the top."
+	"Icon"
+	{
+		"0" "beepkg/twtm_wall.png"
+	}
+}
